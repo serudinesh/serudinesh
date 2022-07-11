@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @serudinesh
+- 👀 I’m interested in Python coding and building cloud related applications
+- 🌱 I’m currently learning AI and data science
+- 📫 How to reach me dineshkseru@gmail.com
